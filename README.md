@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Running the app
 
 1. Ensure you have `npm` installed.
@@ -17,3 +18,7 @@ npm run server
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
+=======
+# voting_app
+A product hunt clone
+>>>>>>> 4d9379afc2f23f1f14399630b70e5a5d03a72275
